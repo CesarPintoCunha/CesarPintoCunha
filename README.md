@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm César!</h1>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+César;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 <div align="center">
 <h3 align="center">I just need a cup of coffee ☕️ and the game 🎮 is on. Ready for the next challenge. Programming allows me to work on problem solving and motivates me to continue to learn more and more and that's why I can't think of anything else I would rather do. Life’s too short for bad coffee and for boring work!</h3>
 
