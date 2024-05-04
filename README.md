@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3 align="center">I just need a cup of coffee ☕️ and the game 🎮 is on. Ready for the next challenge. Programming allows me to work on problem solving and motivates me to continue to learn more and more and that's why I can't think of anything else I would rather do. Life’s too short for bad coffee and for boring work!</h3>
+<h3 align="center">I just need a cup of coffee ☕️ and the game 🎮 is on. Ready for the next challenge. Programming allows me to work on problem solving and motivates me to continue to learn more and more and that's why I can't think of anything else I would rather do. Life’s too short for bad coffee and boring work!</h3>
 
  <img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" align="center">
  </div>
